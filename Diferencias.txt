@@ -1,0 +1,10 @@
+Administracion: Es una ciencia encargada a ordenar todo de una mejor forma para 
+poder tener un control sobre las acciones o procesos que estan en accion.
+Gestion: es la accion o conjunto de operaciones que genera un poroceso para llegar a un fin
+de la mejor manera posible.
+
+la diferencia mas notable entre uno y otro es que el administrador solo ve las cosas muy por arriba
+de lo que realmente son ya que solo se encarga en llevar un control de lo que esta pasando
+en cambio el gestor tiene un conocimiento mas detallado de los proccesos ya que el se 
+encarga de saber a detalle que es lo que se esta haciendo en cada proceso u accion.
+
