@@ -1,0 +1,18 @@
+Definicion investigacion:Las organizaciones son sistemas grandes compuestos de subsistemas interrelacionados. 
+Los subsistemas son relacionados por tres amplios niveles de administradores que toman decisiones 
+operación, administración media y administración estratégica) y que cortan horizontalmente a través del sistema organizacional.
+Las culturas y subculturas organizacionales influencian la manera en que se interrelaciona la gente en los subsistemas.
+Las organizaciones son conceptualizadas en forma útil como sistemas diseñados 
+para lograr metas y objetivos predeterminados por medio de la gente y otros recursos que emplean.
+Las organizaciones están compuestas de sistemas más pequeños interrelacionados 
+(departamentos, unidades, divisiones, etc.).
+
+Definicion Propia: La organizacion de centros de computo es la forma en que gestiona y se llega a dividir grandes obejetivos en
+cuestiones un poco mas simples ya que al dividir este obejetivo se generan otros un poco mas faciles de retomar para uno o varios
+equipos de trabajo y asi poder hacer secciones especificas con un fin el cual al final con ayuda de las secciones se puede llegar 
+al objetivo principal de donde se derivaron las tareas de cada seccion.
+
+Ejemplo: las empresas seccionan su toda area referente a la informatica en departamentos con el fin de dividir las tareas y dar objetivos 
+concretos para asi poder hacer funcionar toda el area de una forma mas eficiente para cumplir con el objetivo general
+que busca toda el area de informatica ya que aun que se dividan en departamentos cada uno de ellos complementa al otro y juntos
+crean toda la area de informatica en una empresa.
