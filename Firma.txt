@@ -1,0 +1,11 @@
+Prueba.c    1  (Original)
+Hash:7dd91ee93f4ecde72bec0ce4d38aa4ac7e41a220
+
+Prueba.c    2  (Cambio)
+Hash:6fdd5939c6ec020bb957923a116f96f6f8bd95c2
+
+Prueba.c    3   (Regreso al original)
+Hash:7dd91ee93f4ecde72bec0ce4d38aa4ac7e41a220
+
+Prueba.c    4   (sha256)
+Hash:e285a57db05ffb4a639327d3c1cad5ae1cbe75379cc57608ebab21ac742aecb5
